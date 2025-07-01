@@ -1,4 +1,4 @@
 #!/bin/bash
-read -p "Enter username: " username
+read -p "Enter username: " Apple
 sudo useradd -m "$username"
-echo "User $username created."
+echo "User $username created."S
